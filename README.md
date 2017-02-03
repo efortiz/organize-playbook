@@ -1,5 +1,5 @@
 # Organize Playbook
-This playbook is an open-source list of tactics and tools to help those organizing and providing rapid response to arising situations.f
+This playbook is an open-source list of tactics and tools to help those organizing and providing rapid response to arising situations.This is a test.
 
 ## Security Tactics
 These list of tactics have been compiled from numerous sources, they should help you improve your security posture to ensure that your information is secure and private. Please note that there's no such thing as 100% security, there's just improving your posture to ensure that you're more secure.
@@ -11,7 +11,7 @@ __Better__
 [Signal](https://whispersystems.org/)
 Get it at:
 - [Apple Store] (https://itunes.apple.com/us/app/signal-private-messenger/id874139669)
-- [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DMessaging) 
+- [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DMessaging)
 
 __Good__
 [WhatsApp](https://www.whatsapp.com/)
@@ -36,7 +36,7 @@ __Not good__
 - fjjff
 
 ### Equipment (phone/tablet/etc) charging
-Why does this matter? When you connect your phone to a computer, outlet, or any other port to charge over a USB cable, you become vulnerable 
+Why does this matter? When you connect your phone to a computer, outlet, or any other port to charge over a USB cable, you become vulnerable
 
 ## Check-in
 A check-in and contact sheet to allow you to document who is present, their capabilities, availability, and contact information
