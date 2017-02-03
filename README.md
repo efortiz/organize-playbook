@@ -1,5 +1,5 @@
 # Organize Playbook
-This playbook is an open-source list of tactics and tools to help those organizing and providing rapid response to arising situations.
+This playbook is an open-source list of tactics and tools to help those organizing and providing rapid response to arising situations.f
 
 ## Security Tactics
 These list of tactics have been compiled from numerous sources, they should help you improve your security posture to ensure that your information is secure and private. Please note that there's no such thing as 100% security, there's just improving your posture to ensure that you're more secure.
